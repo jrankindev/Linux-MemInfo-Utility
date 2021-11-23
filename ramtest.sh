@@ -53,3 +53,4 @@ echo "SWAP Free: "$swapFreeVar
 echo "SWAP Used: "$swapUsedVar
 echo "SWAP Used %: "$swapPercentUsedVar
 echo ""
+echo ""
